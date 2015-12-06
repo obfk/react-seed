@@ -2,6 +2,8 @@
 
 A boilerplate for building React apps with ES6 and webpack.
 
+http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+
 ## What you get
 
 * React 0.13
